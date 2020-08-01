@@ -1,0 +1,9 @@
+﻿<Application x:Class="Midterm_GenerateASquareMatrix_QingqingWu.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Midterm_GenerateASquareMatrix_QingqingWu"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
